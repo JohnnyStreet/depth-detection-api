@@ -1,0 +1,4 @@
+numpy
+transformers[gpu]
+Pillow
+fastapi[all]
